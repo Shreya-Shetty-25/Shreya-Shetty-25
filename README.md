@@ -1,4 +1,4 @@
- # **😊Hi, I’m Shreya Shetty**
+ # **Hi, I’m Shreya Shetty 😊**
    * I’m currently a second-year Computer Science Engineering student at **LJ University**. I enjoy learning new concepts in my field, working on projects to apply them, and solving coding challenges. 🧩 Coding excites me because it lets me turn ideas into real-world applications, and I’m always eager to improve my skills. 🚀
     
    * I’m passionate about web development, and I love working on projects that help me apply my skills and bring ideas to life. 🌐 I'm also diving into data science, where I’m just starting my journey and learning the basics. 📊 Additionally, I enjoy solving DSA problems to improve my problem-solving skills. 🚀 Coding and continuous learning are what keep me excited every day!
